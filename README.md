@@ -1,2 +1,2 @@
 # Sales_Insights
-Power BI
+Power BI project.
